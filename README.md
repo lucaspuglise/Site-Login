@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte das atividades da **Monitoria de Desenvolvimento Web** durante o meu 2º semestre no curso de **Ciência da Computação no CEUB**.
+Este projeto foi desenvolvido como parte das atividades da **Monitoria de Desenvolvimento Web** durante o meu 1º semestre no curso de **Ciência da Computação no CEUB**.
 
 O objetivo principal foi criar um sistema de login funcional e responsivo, aplicando os conceitos fundamentais do desenvolvimento Web Full-Stack. O projeto vai desde a concepção da interface visual (Frontend) até a estruturação do servidor e banco de dados (Backend).
 
